@@ -1,0 +1,35 @@
+h1 {
+    color: goldenrod;
+
+}
+
+body {
+    text-align: center;
+    background-color: green;
+    color: white;
+    font-size: 25px;
+    font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+;
+
+#message-el {
+    font-family: italic;
+}
+
+button {
+    color: #016f32;
+    background: goldenrod;
+    width: 150px;
+    padding: 10px;
+    font-size: 18px;
+    font-weight: bold;
+    border-radius: 2px;
+    border: none;
+}
+
+#newcard{
+margin-top:10PX;
+
+}
